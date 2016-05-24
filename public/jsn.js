@@ -36,7 +36,7 @@ function mean(){
 	result=parseFloat(sum/num).toFixed(3);
 	if (isNaN(result)){
 		document.getElementById("tot").innerHTML="N/A";
-		document.getElementById("msg").innerHTML="You have not entered anything yet or you did not entered numbers.";
+		document.getElementById("msg").innerHTML="You have not entered enough numbers or you did not entered numbers.";
 	}
 	else if(err==0){
 		document.getElementById("tot").innerHTML=result*100 + "/100";
