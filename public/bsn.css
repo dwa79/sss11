@@ -1,0 +1,129 @@
+body {
+	background-color: #9F000F;
+}
+#d1 {  /*table part*/
+	background-color: #E9EEF1;
+	margin-left: 20px;
+  	margin-right: 200px;
+  	height: 600px;
+}
+#cal{  /*sub window*/
+	background-color: #FFFFFF;
+	margin-left: 80px;
+  	margin-right: 80px;
+  	height: 740px;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th,td {
+	padding: 16px;
+}
+th {
+	text-align:left;
+	background-color: #888888;
+}
+table{
+	width: 98.5%;
+}
+h2, table, p{
+	margin-left: 10px;
+}	
+h1{
+	margin-left: 20px;
+}
+#ttl{
+	font-weight: bold;
+}
+#top{
+	background-color: #800000;
+ 	height: 20px;
+}
+#bot{
+	background-color: #800000;
+	margin-top: 20px;
+ 	height: 20px;
+}
+.button {
+    background-color: #9F000F;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 3px;
+    float: right;
+    cursor: pointer;
+    margin-right: 9px;
+}
+.button:hover {
+    background-color: cyan;
+    color: black;
+}
+.button1{
+	background-color: #00ff00;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 20px;
+    float: right;
+    cursor: help;
+    margin-right: 9px;
+}
+.button1:hover {
+    background-color: #004d00;
+    color: white;
+}
+.button2{
+	background-color: #ffff00;
+    border: none;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 7px;
+    float: right;
+    cursor: crosshair;
+    margin-right: 12px;
+}
+.button2:hover {
+    background-color: purple;
+    color: white;
+}
+
+.button3{
+	background-color: #ffffff;
+    color: black;
+    padding: 20px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 30px;
+    float: right;
+    cursor: pointer;
+    margin-right: 700px;
+}
+.button3:hover {
+    background-color: pink;
+    color: white;
+}
+
+h2, #demons, #space{
+	display: inline;
+}
+
+#demons{
+	color: red;
+	font-size: 40px;
+}
+
