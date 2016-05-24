@@ -1,28 +1,11 @@
-== README
+README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1.There are several buttons for external links to sfu official website, sfu connect and canvas, and also a refresh button.
+2.The "HELP" button can display the instruction.
+3.The "About Developer" button can display my info and you can enter your name. After your enterin the name, you can see the my greetings.
+5.The Program status can show how process condition.
+4.The app will give different command towards different grades.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Student Number: 301257741
+Sincerely,
+Eddie/Di Wang
