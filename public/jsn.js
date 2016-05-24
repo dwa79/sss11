@@ -108,7 +108,7 @@ function average(){
 	result2=parseFloat(ntot/dtot).toFixed(3);
 	if (isNaN(result2)){
 		document.getElementById("tot").innerHTML="N/A";
-		document.getElementById("msg").innerHTML="You have not entered anything yet or you did not entered numbers.";
+		document.getElementById("msg").innerHTML="You have not entered enough numbers or you did not entered numbers.";
 	}
 	else if(err==0){
 		document.getElementById("tot").innerHTML=result2*100 + "/100";
