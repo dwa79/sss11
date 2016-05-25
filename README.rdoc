@@ -1,5 +1,6 @@
 README
-
+ 
+(Best performance with chrome and opera browser)
 1.There are several buttons for external links to sfu official website, sfu connect and canvas, and also a refresh button.
 2.The "HELP" button can display the instruction.
 3.The "About Developer" button can display my info and you can enter your name. After your enterin the name, you can see the my greetings.
